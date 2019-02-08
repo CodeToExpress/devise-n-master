@@ -2,4 +2,6 @@
 
 <p align="center"> This repository contains the content for C2E's first meetup, <br /> #DeviceNMaster </p>
 
-<img src="./poster1.JPG" align="center" />
+<div align="center">
+  <img src="./poster1.JPG" />
+</div>
